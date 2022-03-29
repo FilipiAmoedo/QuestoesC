@@ -1,1 +1,1 @@
-Questões da faculdade utilizando C
+Questões do trabalho da faculdade utilizando C
